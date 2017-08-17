@@ -1,0 +1,7 @@
+{
+    "name": "mundschenk-at/phpstan-test",
+    "require": {
+        "phpstan/phpstan": "^0.8.3",
+        "brain/monkey": "^2.0"
+    }
+}
